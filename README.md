@@ -10,6 +10,9 @@
 ### API Used
 1.Chuck Norris Joke API http://www.icndb.com/api/
 
+**The API does not work on  mobile as it is not served with https**
+
+
 #  Screenshots of the flow
 #### Mobile
 ![alt text](https://raw.githubusercontent.com/ankushChatterjee/sqrrl-form-validator/master/screenshots/nexus.PNG "200")
