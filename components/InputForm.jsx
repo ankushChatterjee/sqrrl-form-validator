@@ -7,6 +7,7 @@ export default class InputForm extends React.Component{
         super(props);
         this.state = {name:"",age:'',email:"",password:"",confpassword:"",validated:false,sendProps:null,jokeData:null,nameError:'',ageError:'',emailError:'',passwordError:'',confError:''};
     }
+    
     render(){
        // console.log(this.state);
         return(<div>
